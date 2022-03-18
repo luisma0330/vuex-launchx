@@ -15,7 +15,7 @@
 
 <script>
 
-import Contador from "../components/Contador.vue";
+import Contador from "../components/Contador";
 import Cuadrado from "../components/Cuadrado.vue";
 import Botones from "../components/Botones.vue";
 
